@@ -1,4 +1,4 @@
-baseURL = 'https://devoxx4kids-NPO.github.io/projectA/'
+baseURL = 'https://devoxx4kids-NPO.github.io/test/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 
